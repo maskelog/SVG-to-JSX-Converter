@@ -8,9 +8,9 @@ Clone this repository to your local machine and navigate to the project director
 
 ## Usage
 1. Open the application and click the "Convert SVGs to JSX" button.
-2. Select the SVG files you want to convert.
+2. Select multiple SVG files you want to convert.
 3. Choose a location to save the resulting JSX file.
-4. The application will show the progress of the conversion, and the JSX file will be saved in the chosen location.
+4. The application will show the progress of the conversion, and the JSX file containing all selected components will be saved in the chosen location.
 
 ## Example of Generated JSX
 ```jsx
